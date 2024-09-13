@@ -12,10 +12,7 @@ body {
     font-style: normal;
 }
 
-.rapper {
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(83,30,1,1) 35%, rgba(0,212,255,1) 100%);
-    width: 100%;
-}
+
 .container {
     width: 900;
     margin: 0 auto;
