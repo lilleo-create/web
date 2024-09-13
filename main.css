@@ -114,20 +114,4 @@ section {
     text-transform: uppercase;
     font-weight: 900;
 }
-@media (max-width:992px) {
-    .header__btn {
-        display: block;
 
-    }
-    
-    .countainer{
-        position: absolute;
-        left: 0;
-        top:0;
-        background-color: #60646D;
-    
-    }
-    .menu__list {
-        display: block;
-    }
-}
